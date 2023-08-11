@@ -1,0 +1,4 @@
+[submodule "Site"]
+	path = UZA-Site/public
+	url = https://github.com/UberZachAttack/personal-site
+	branch = main
