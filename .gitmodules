@@ -1,4 +1,0 @@
-[submodule "Site"]
-	path = Site
-	url = https://github.com/UberZachAttack/personal-site.git
-	branch = main
